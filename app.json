@@ -12,7 +12,7 @@
       "backgroundColor": "#ffffff"
     },
   "experiments": {
-  "baseUrl": "/TODO"
+  "baseUrl": "/TODO-app"
      },
     "ios": {
       "supportsTablet": true

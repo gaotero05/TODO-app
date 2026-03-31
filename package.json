@@ -1,7 +1,7 @@
 {
   "name": "todo",
   "version": "1.0.0",
-  "homepage": "https://github.com/gaotero05/TODO",
+  "homepage": "https://github.com/gaotero05/TODO-app",
   "main": "index.js",
   "scripts": {
     "start": "expo start",
